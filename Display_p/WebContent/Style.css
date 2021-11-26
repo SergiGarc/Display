@@ -13,17 +13,45 @@
 }
 
 .c2 {
-	display:block;
+	display:inline-block;
 	position: relative;
 	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
 }
 
 .i2 {
-	display: block;
+	display: inline-block;
 	psoition: relative;
 	box-sizing: content-box;
 }
 
+.i3 {
+	display: inline-block;
+	position: relative;
+	box-sizing: content-box;
+	right: 30px;
+}
+
+.i4 {
+	display: inline-block;
+	position: relative;
+	box-sizing: content-box;
+	left: 170px;
+}
+
 * {
-	
+	border: solid grey;
+}
+
+section {
+	border: solid white;
+}
+
+body {
+	border: solid white;
+}
+
+html {
+	border: solid white;
 }
