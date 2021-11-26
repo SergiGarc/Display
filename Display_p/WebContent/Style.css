@@ -1,1 +1,29 @@
 @charset "UTF-8";
+
+.c1 {
+	display:inline;
+	position: relative;
+	box-sizing: content-box;
+}
+
+.i1 {
+	display: inline-block;
+	psoition: relative;
+	box-sizing: content-box;
+}
+
+.c2 {
+	display:block;
+	position: relative;
+	box-sizing: content-box;
+}
+
+.i2 {
+	display: block;
+	psoition: relative;
+	box-sizing: content-box;
+}
+
+* {
+	
+}
