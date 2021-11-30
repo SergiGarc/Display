@@ -37,9 +37,48 @@
 	display: inline-block;
 	position: relative;
 	box-sizing: content-box;
-	left: 170px;
+	bottom:17px;
+	width: 400px; 
+	height:400px;
 }
 
+.c3 {
+	display:inline-block;
+	position: relative;
+	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
+	left: 20px;
+}
+
+.c4 {
+	display:inline-block;
+	position: relative;
+	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
+}
+
+.c5 {
+	display:inline-block;
+	position: relative;
+	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
+	left: 45px;
+	bottom: 50px;
+}
+
+.c6 {
+	display:inline-block;
+	position: fixed;
+	box-sizing: content-box;
+	width: 200px;
+	height: 100px;
+	right: 0px;
+	bottom: -15px;
+	border: solid green;
+}
 * {
 	border: solid grey;
 }
